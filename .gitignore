@@ -1,5 +1,6 @@
 # files containing API keys
 config.py
+api_keys.py
 
 # Jupyter Notebook
 .ipynb_checkpoints
