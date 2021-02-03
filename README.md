@@ -1,4 +1,4 @@
-# python-api-challenge
+# python-api-challenge - Part I: WeatherPy
 This notebook analyzes weather data to better understand what the weather is like as we approach the equator.
 * It visualizes the weather of 500+ randomly selected cities across the world using the the OpenWeatherMap API, and 
 * creates a representative model of weather across world cities.
@@ -6,6 +6,9 @@ This notebook analyzes weather data to better understand what the weather is lik
 The project consists of:
 - a Jupyter notebook (WeatherPy.ipnyb) that analyzes the .......**continue updating here**.
 - the mouse metadata and study results stored in Resources\Study_results.csv and Resources\Mouse_metadata.csv
+
+Include a print log of each city as it's being processed with the city number and city name.
+Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 The Jupyter notebook contains:
 - an analysis report (at the beginning of the notebook), 
