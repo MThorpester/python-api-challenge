@@ -16,7 +16,7 @@ This project chooses ideal vacation destinations.
 
 The project consists of:
 - a Jupyter notebook (MT_VacationPy.ipnyb).
-- a file of randomly selected cities with their weather data (generated in Part I): WeatherPy\output_data\cities.csv
+- an input file of randomly selected cities with their weather data (generated in Part I): WeatherPy\output_data\cities.csv
 - A worldwide humidty heatmap and a map overlaid with the destination hotels, both stored as .png files in in the WeatherPy\output_data\ folder.  
 
 Notes
